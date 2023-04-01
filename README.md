@@ -1,5 +1,5 @@
-Dynamic Variable Space Tree
-===========================
+No April Fools
+==============
 
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that disables April Fools easter eggs for people who don't like fun.
 
